@@ -1,0 +1,11 @@
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/bin/Debug/Yoox.Tests.dll
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/bin/Debug/Yoox.Tests.pdb
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/bin/Debug/LearnSolidAndTesting.dll
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/bin/Debug/nunit.framework.dll
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/bin/Debug/LearnSolidAndTesting.pdb
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/bin/Debug/nunit.framework.xml
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.AssemblyReference.cache
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.CoreCompileInputs.cache
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/obj/Debug/PaymentServices.Tests.csproj.CopyComplete
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/obj/Debug/Yoox.Tests.dll
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices.Tests/obj/Debug/Yoox.Tests.pdb

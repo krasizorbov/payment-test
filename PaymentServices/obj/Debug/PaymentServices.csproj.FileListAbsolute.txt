@@ -1,0 +1,6 @@
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices/bin/Debug/LearnSolidAndTesting.dll
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices/bin/Debug/LearnSolidAndTesting.pdb
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices/obj/Debug/PaymentServices.csproj.AssemblyReference.cache
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices/obj/Debug/PaymentServices.csproj.CoreCompileInputs.cache
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices/obj/Debug/LearnSolidAndTesting.dll
+/Users/husein/Downloads/c-sharp-payment-test-main/PaymentServices/obj/Debug/LearnSolidAndTesting.pdb
